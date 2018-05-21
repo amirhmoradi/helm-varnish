@@ -1,3 +1,6 @@
+# helm-varnish
+Helm Chart for Varnish
+
 # Using in Kubernetes
 
 This image can be used in Kubernetes via helm to provide a varnish (proxy) service. View [helm-varnish](https://github.com/amirhmoradi/helm-varnish) for more information.
