@@ -1,0 +1,15 @@
+name: varnish
+version: 1.0.0
+appVersion: 6.0.0
+description: Varnish Cache is a web application accelerator also known as a caching HTTP reverse proxy.
+keywords:
+- varnish
+- varnish-cache
+home: https://varnish-cache.org/
+sources:
+- https://github.com/amirhmoradi/helm-varnish
+maintainers:
+- name: Amir Moradi
+  email: contact@amirhmoradi.com
+engine: gotpl
+icon: https://varnish-cache.org/_static/varnishcache_rgb-gimp2-alpha.png
